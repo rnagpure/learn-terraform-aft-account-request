@@ -24,5 +24,4 @@ module "Development" {
   }
 
   account_customizations_name = "Dev"
-  aft_feature_delete_default_vpcs_enabled = true
 }
